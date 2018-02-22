@@ -1,0 +1,27 @@
+Deekshitha Thumma
+9/24/2017
+Assignment 3: Scene in 3D
+
+
+How to change the view:
+- to move the view up: up arrow key
+- to move the view down: down arrow key
+- to move the view left: left arrow key
+- to move the view right: right arrow key
+- to reset the view: 0 key
+
+How to manipulate what you see:
+- to change the mode: m key
+	- first(default) mode shows all columns
+	- second mode shows a original column
+	- third mode shows a translated column
+	- fourth mode shows a scaled column
+	- fifth mode shows a rotated column
+- to toggle autorotate on or off: r key
+- to show/unshow axis: a key
+
+How to exit:
+- to exit: esc key
+
+Time to do assignment:
+- 9.5 hours

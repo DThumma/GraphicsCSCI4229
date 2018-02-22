@@ -1,0 +1,36 @@
+Deekshitha Thumma
+9/28/2017
+Assignment 4: Projections and Navigation
+
+How to compile & run:
+- in the directory run "make" then run "hw4"
+
+How to change the view when in orthoginal or perspective view:
+- to move the view up: up arrow key
+- to move the view down: down arrow key
+- to move the view left: left arrow key
+- to move the view right: right arrow key
+- to aoom in and out: PgDn and PgUp
+- to reset the view and dim: 0 key
+
+How to walk in first person view:
+- to move forward: up arrow key
+- to move backward: down arrow key
+- to turn left: left arrow key
+- to turn right: right arrow key
+
+How to change projection:
+- to change the mode: m key
+	- first mode is orthoginal
+	- second mode is perspective
+	- third mode is first person
+
+How to change what you see:
+- to show/unshow axis: a key
+- to toggle autorotate: r key
+
+How to exit:
+- to exit: esc key
+
+Time to do assignment:
+- 5 hours

@@ -1,0 +1,54 @@
+Deekshitha Thumma
+10/26/2017
+Final Project
+
+Description: Modern art museum consisting of paintings, pottery, sculptures, and flowers. 
+
+Things to take note of:
+1) To limit the polygon count of my program, I created flowers using textures and shaders. Instead of drawing each petal and center using 
+multiple objects, I used one object and applied a texture of a flower with a black background to it. I then created a shader program that 
+discards all the black pixels. Thus the result is a realistic looking flower! This is the same with the pottery peices and dome room star ceiling.
+2) Collision detection. I implemented collision detection to all the paramters of the building and within.
+3) Instead of bulding the bigger things using large sized objects, such as the walls of the meuseum, I used a bunch of smaller quads so that
+the lighting could be more granular and realistic on the walls and floor rather than the whole thing lighting up
+4) Used interesting objects/shapes to make the ceiling pieces and the sculptures, as well as the columns. 
+
+How to compile & run:
+- in the directory run "make" then run "finalproject"
+
+How to do basics:
+- l          Toggles lighting
+- p          Toggles first-person/perspective projection
+- a/A        Decrease/increase ambient light
+- m          Toggles light movement
+- +/-        Change field of view of perspective/ zoom in and out
+- PgDn/PgUp  Change field of view of perspective/ zoom in and out
+- x          Toggle axes (default: not shown)
+- arrows     Change view angle or walk
+- 0          Reset view angle
+- ESC        Exit
+
+
+How to change view:
+- up arrow key      to move the view up
+- down arrow key    to move the view down 
+- left arrow key    to move the view left
+- right arrow key   to move the view right:
+- PgDn/PgUp         to zoom in and out: 
+- 0 key             to reset the view and dim
+
+How to walk in first person view:
+- up arrow key      to move forward: 
+- down arrow key    to move backward: 
+- left arrow key    to turn left
+- right arrow key   to turn right
+
+How to change projection:
+- p         to change the mode: 
+			- first mode is perspective
+			- second mode is first person
+
+How to exit:
+- esc       to exit
+
+

@@ -1,0 +1,27 @@
+Deekshitha Thumma
+9/14/2017
+Assignment 2: Lorenz Attractor
+
+
+How to change the view:
+- to move the view up: up arrow key
+- to move the view down: down arrow key
+- to move the view left: left arrow key
+- to move the view right: right arrow key
+- to reset the view: 0 key
+
+How to manipulate the graph:
+- to increase the s parameter: s key
+- to decrease the s parameter: a key
+- to increase the b parameter: b key
+- to decrease the b parameter: v key
+- to increase the r parameter: r key
+- to decrease the e parameter: e key
+- to reset the s,b, and r parameters: x key
+- to change the color scheme: z key
+
+How to exit:
+- to exit: esc key
+
+Time to do assignment:
+- 4 hours

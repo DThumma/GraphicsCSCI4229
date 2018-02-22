@@ -1,0 +1,59 @@
+Deekshitha Thumma
+10/19/2017
+Assignment 6: Lighting & Texture
+
+How to compile & run:
+- in the directory run "make" then run "hw6"
+
+How to change lighting:
+- l          Toggles lighting
+- p          Toggles ortogonal/perspective projection
+- a/A        Decrease/increase ambient light
+- d/D        Decrease/increase diffuse light
+- s/S        Decrease/increase specular light
+- e/E        Decrease/increase emitted light
+- n/N        Decrease/increase shininess
+- F1         Toggle smooth/flat shading
+- F2         Toggle local viewer mode
+- F3         Toggle light distance (1/5)
+- F8         Change ball increment
+- F9         Invert bottom normal
+- m          Toggles light movement
+- []         Lower/rise light
+- +/-        Change field of view of perspective
+- </>        Manually move light along path
+- x          Toggle axes
+- arrows     Change view angle
+- PgDn/PgUp  Zoom in and out
+- 0          Reset view angle
+- ESC        Exit
+
+
+How to change view:
+- up arrow key      to move the view up
+- down arrow key    to move the view down 
+- left arrow key    to move the view left
+- right arrow key   to move the view right:
+- PgDn and PgUp     to aoom in and out: 
+- 0 key             to reset the view and dim
+
+How to walk in first person view:
+- up arrow key      to move forward: 
+- down arrow key    to move backward: 
+- left arrow key    to turn left
+- right arrow key   to turn right
+
+How to change projection:
+- m         to change the mode: 
+			- first mode is orthoginal
+			- second mode is perspective (default)
+			- third mode is first person
+
+How to change what you see:
+- a         to show/unshow axis
+
+How to exit:
+- esc       to exit
+
+Time to do assignment:
+- 5 hours
