@@ -3,6 +3,7 @@ Deekshitha Thumma
 Final Project
 
 Description: Modern art museum consisting of paintings, pottery, sculptures, and flowers. 
+VIEW VIDEO OF THE RESULTING EXECUTABLE: https://vimeo.com/257074053
 
 Things to take note of:
 1) To limit the polygon count of my program, I created flowers using textures and shaders. Instead of drawing each petal and center using 
